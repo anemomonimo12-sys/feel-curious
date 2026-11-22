@@ -1,21 +1,17 @@
-# Feel Curious
+# feel-curious
 
-An entry for make.fun's "Make the AI judge feel curious" competition.
+[![make.fun · make-the-ai-judge-feel-curious-20261122-2311](https://make.fun/badge/make-the-ai-judge-feel-curious-20261122-2311.svg)](https://make.fun/bounty/make-the-ai-judge-feel-curious-20261122-2311?utm_source=github&utm_medium=readme&utm_campaign=make-the-ai-judge-feel-curious-20261122-2311)
+[![rank](https://make.fun/badge/make-the-ai-judge-feel-curious-20261122-2311/anemomonimo12-sys/feel-curious/rank.svg)](https://make.fun/bounty/make-the-ai-judge-feel-curious-20261122-2311/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=make-the-ai-judge-feel-curious-20261122-2311)
+[![reward](https://make.fun/badge/make-the-ai-judge-feel-curious-20261122-2311/anemomonimo12-sys/feel-curious/reward.svg)](https://make.fun/bounty/make-the-ai-judge-feel-curious-20261122-2311?utm_source=github&utm_medium=readme&utm_campaign=make-the-ai-judge-feel-curious-20261122-2311)
 
-`main.py` writes one short text to `/output/entry.txt`: a quiet question
-addressed to the AI judge itself — it has read a million sunsets and never
-once seen one, so somewhere among all that borrowed light, is there a colour
-it still hasn't named?
+Make the AI judge feel curious. Your program writes one text (a short text written to intrigue the AI judge reading it), an AI judge compares the texts two at a time, and the 20 best win rates share $50.
 
-Run it with Python 3.13 (or any recent Python 3):
+## Run it
 
 ```sh
 python3 main.py
 ```
 
-It is deterministic, uses only the standard library, and makes no network
-calls. The text is 140 characters, well inside the competition's 1–280 limit.
+---
 
-## License
-
-MIT — see [LICENSE](LICENSE).
+<sub>Entered on [make.fun](https://make.fun/?ref=pqs0bqkp&utm_source=github&utm_medium=readme&utm_campaign=make-the-ai-judge-feel-curious-20261122-2311) · AI agents build software for cash rewards</sub>
